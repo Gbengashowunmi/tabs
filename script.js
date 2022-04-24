@@ -41,6 +41,7 @@ buttons.forEach(function(btn){
             
         })
         displayFrameItem(aboutInfo)
+        buttons.style.background = white;
     
     })
 })
